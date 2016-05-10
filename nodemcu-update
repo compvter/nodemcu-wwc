@@ -1,0 +1,1 @@
+python luatool/luatool/luatool.py --port /dev/ttyUSB0 --src init.lua --dest init.lua --restart
